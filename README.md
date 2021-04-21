@@ -1,6 +1,8 @@
 # ALPINE-VITE-TAILWIND TEMPLATE
 
-## Made by [https://portfolio.corentinperroux.fr](Corentin PERROUX)
+## Made by [Corentin PERROUX]([CorentinPERROUX](https://portfolio.corentinperroux.fr))
+
+## Test url : [https://alpine-vite-tailwind-template.netlify.app/](https://alpine-vite-tailwind-template.netlify.app/)
 
 ## DEPLOY ON NETLIFY
 
