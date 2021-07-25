@@ -30,6 +30,13 @@ npm run dev
 npm run build
 ```
 
+## Prévisualiser les fichiers de production en local
+
+```bash
+npm run build
+npm run preview
+```
+
 ## Dépendances installées :
 
 * alpinejs
@@ -41,8 +48,9 @@ npm run build
 
 ## Scripts : 
 
-* dev : "vite"
-* build: "vite build"
+* dev : "vite --host",
+* build : "vite build",
+* preview : "vite preview"
 
 ****
 
@@ -66,6 +74,13 @@ npm run dev
 npm run build
 ```
 
+## Preview build in local
+
+```bash
+npm run build
+npm run preview
+```
+
 ## Dependencies installed :
 
 * alpinejs
@@ -77,5 +92,6 @@ npm run build
 
 ## Scripts : 
 
-* dev : "vite"
-* build: "vite build"
+* dev : "vite --host",
+* build : "vite build",
+* preview : "vite preview"
