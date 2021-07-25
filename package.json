@@ -2,8 +2,9 @@
   "name": "alpine-vite-tailwind-template",
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": "https://github.com/Corentin7301/ALPINE-VITE-TAILWIND-TEMPLATE",
   "author": {
