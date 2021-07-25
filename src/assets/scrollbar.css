@@ -1,0 +1,26 @@
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: rgb(51, 67, 90);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-color: rgb(245, 245, 245);
+    border-radius: 10px;
+}
+
+.scroll-color-colors {
+    /*Firefox */
+    scrollbar-color: rgb(51, 67, 90);
+}
+
+.scroll-width-thin {
+    /*Firefox */
+    scrollbar-width: thin;
+}
